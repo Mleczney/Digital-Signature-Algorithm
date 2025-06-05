@@ -1,0 +1,16 @@
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.FormMain.resources
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.csproj.GenerateResource.cache
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.AssemblyInfoInputs.cache
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.AssemblyInfo.cs
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.csproj.CoreCompileInputs.cache
+C:\Users\KKata\source\repos\DSA\DSA\bin\Debug\net6.0-windows\DSA.exe
+C:\Users\KKata\source\repos\DSA\DSA\bin\Debug\net6.0-windows\DSA.deps.json
+C:\Users\KKata\source\repos\DSA\DSA\bin\Debug\net6.0-windows\DSA.runtimeconfig.json
+C:\Users\KKata\source\repos\DSA\DSA\bin\Debug\net6.0-windows\DSA.dll
+C:\Users\KKata\source\repos\DSA\DSA\bin\Debug\net6.0-windows\DSA.pdb
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.dll
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\refint\DSA.dll
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.pdb
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\DSA.genruntimeconfig.cache
+C:\Users\KKata\source\repos\DSA\DSA\obj\Debug\net6.0-windows\ref\DSA.dll
